@@ -1,6 +1,6 @@
 import math
 from scipy.special import erfc
-
+#initialising
 #parameters
 
 lam_m= 1550e-9       # wavelength (m)
